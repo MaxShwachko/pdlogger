@@ -1,0 +1,16 @@
+{
+    "name": "pdlogger",
+    "references": [
+        "GUID:a98913ce0449c4d15946c4e098f78f6b",
+        "GUID:94782679bd4b1f940b6004ab68ccb9c3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
